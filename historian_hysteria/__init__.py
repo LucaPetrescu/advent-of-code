@@ -1,1 +1,1 @@
-from .hystorian_hysteria import hystorian_histeria
+from .hystorian_hysteria import hystorian_histeria, open_inputs_file
